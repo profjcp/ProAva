@@ -13,6 +13,12 @@
 % Ajuste de lenguaje
 \usepackage[spanish, english, portuguese]{babel}
 
+% Fuente principal del texto
+\usepackage{lmodern} 
+
+\renewcommand*{\familydefault}{\rmdefault}
+
+\usepackage{setspace}
 % Tamaño de página y margenes
 \usepackage[letterpaper, top=2.5cm,bottom=3.5cm, left=3cm, right=2.5cm, marginparwidth=1.75cm]{geometry}
 
@@ -94,23 +100,45 @@
 
 % Headers config
 % Cambiar Volumen, Numero y páginas
-\lhead{
-    Fronteras Tecnológicas, Febrero 2025, Vol. 1, No. 1, páginas xx – xx\\Disponible en línea para descarga en: \href{https://github.com/profjcp/Articulos/}{https://github.com/profjcp/Articulos/}\\ISSN: xx-xx, Postgrado SOE, UAGRM
-}
-\rhead{
-    \includegraphics[width=1.5cm, height=1.5cm]{logo}}
-\headsep=60pt
+%\lhead{
+%    Fronteras Tecnológicas, Febrero 2025, Vol. 1, No. 1, páginas xx – xx\\Disponible en línea para descarga en: \href{https://github.com/profjcp/Articulos/}{https://github.com/profjcp/Articulos/}\\ISSN: xx-xx, Postgrado SOE, UAGRM
+%}
+%\rhead{
+%    \includegraphics[width=1.5cm, height=1.5cm]{logo}}
+%\headsep=60pt
 
 % Información del artículo
-\title{\Huge Optimización de la Respuesta a Consultas en Posgrado mediante Fine-tuning de Llama 7B con Datos Específicos \\}
-\author{\Large {1\textsuperscript{st}Juan Carlos Peinado Pereira}}
-\date{\normalsize Posgrado SOE - UAGRM\\
-\textit{jcpeinado@soe.uagrm.edu.bo}\\
-Santa Cruz de la Sierra, Bolivia \\
-https://orcid.org/0009-0009-9117-2441}
+%\title{\Huge Optimización de la Respuesta a Consultas en Posgrado mediante Fine-tuning de Llama 7B con Datos Específicos \\}
+%\author{\Large {1\textsuperscript{st}Juan Carlos Peinado Pereira}}
+%\date{\normalsize Posgrado SOE - UAGRM\\
+%\textit{jcpeinado@soe.uagrm.edu.bo}\\
+%Santa Cruz de la Sierra, Bolivia \\
+%https://orcid.org/0009-0009-9117-2441}
 
 \begin{document}
-\maketitle
+%\maketitle
+    \begin{titlepage}
+        \centering
+        \thispagestyle{empty}
+        %\newgeometry{left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm}
+        %{\large hola esta es una prueba\\}
+        {\Huge Optimización de la Respuesta a Consultas en Posgrado mediante Fine-tuning de Llama 7B con Datos Específicos \\}
+        \vspace{3cm}
+    \begin{minipage}[t]{0.3\textwidth}
+        \vspace{0pt}
+        \includegraphics[width=\linewidth]{logo3}
+    \end{minipage}\vline
+    \begin{minipage}[t]{0.4\textwidth}
+        \vspace{5pt}
+        { \small Revista Fronteras Tecnológicas}\\
+        { \small ISSN: xx-xx}\\
+        { \small Revista@soe.uagrm.edu.bo}\\
+        { \small Santa Cruz de la Sierra, Bolivia}
+    \end{minipage}\\
+    \vspace{3cm}
+    {\Large {1\textsuperscript{st}Juan Carlos Peinado Pereira}}\\
+    {\small Posgrado SOE - UAGRM}\\
+    \end{titlepage}
 % Espacios entre los elementos de títulos y subtítulos.
 \titlespacing*{\section}{0pt}{0cm}{0cm}
 \titlespacing*{\subsection}{0pt}{0cm}{0cm}
@@ -160,10 +188,12 @@ La Unidad de Posgrado de Ciencias de la Computación (SOE) de la Universidad Aut
 La gestión de un alto volumen de consultas administrativas y académicas, junto con la necesidad de agilizar la difusión de investigaciones y la actualización de programas académicos, demanda soluciones innovadoras. 
 La atención al cliente se ve comprometida por la falta de herramientas especializadas que faciliten respuestas rápidas y precisas, mientras que los procesos administrativos carecen de automatización y generación de reportes eficientes.
 
-En este contexto, se propone el desarrollo de un modelo de lenguaje basado en Llama 7B, ajustado mediante fine-tuning con datos específicos de la SOE, para optimizar la respuesta a consultas. 
+En este contexto, se propone, a través de una revisión bibliográfica y un análisis de viabilidad, el desarrollo de un modelo de lenguaje basado en Llama 7B, ajustado mediante fine-tuning con datos específicos de la SOE, para optimizar la respuesta a consultas. 
+Es importante destacar que este artículo presenta una propuesta teórica y un plan de acción, no la implementación práctica del modelo. 
 Esta solución busca proporcionar respuestas eficientes tanto a usuarios internos como externos, mejorando la experiencia general y liberando recursos administrativos.
 
-El objetivo principal de esta investigación es evaluar el impacto de la optimización de la respuesta a consultas en la SOE mediante el fine-tuning de Llama 7B. 
+El objetivo principal de esta investigación es evaluar el impacto potencial de la optimización de la respuesta a consultas en la SOE mediante el fine-tuning de Llama 7B. 
+Este estudio se basa en una revisión exhaustiva de la literatura existente y en la elaboración de una propuesta técnica detallada.
 Para lograrlo, se plantean los siguientes objetivos específicos: 
 1) recopilar y curar un conjunto de datos relevante que abarque preguntas frecuentes, documentación normativa y currículos académicos; 
 2) realizar el fine-tuning del modelo Llama 7B con este conjunto de datos; 
@@ -193,7 +223,7 @@ Modelos como BERT \parencite{devlin2019bert} avanzaron en la comprensión bidire
 Otros de los modelos a destacar son los presentados por MetaAI, LLaMA \parencite{touvron2023llama} y LLaMA2 \parencite{touvron2023llama}, una colección de LLM preentrenados y ajustados finamente que varían en escala desde 7 mil millones hasta 70 mil millones de parámetros y que muestran resultados prometedores en comparación con otros modelos \parencite{lopez2024generacion}.
 \subsection{Fine-tuning}
 El ajuste fino es un proceso en el que un modelo preentrenado se adapta para tareas o dominios particulares continuando con el entrenamiento del modelo utilizando solo un conjunto de datos específico del dominio que es diferente del conjunto de datos original utilizado para entrenar el modelo base. 
-Se utilizan diversas estrategias y enfoques de ajuste fino para ajustar los parámetros del modelo a una necesidad específica. Algunos enfoques de ajuste fino se describen brevemente en este artículo.
+Se utilizan diversas estrategias y enfoques de ajuste fino para ajustar los parámetros del modelo a una necesidad específica. Algunos enfoques de ajuste fino se describen brevemente en este artículo \parencite{touvron2023llama}.
 \begin{enumerate}
 \item Transferencia de aprendizaje: En este enfoque, un modelo se inicializa primero con pesos guardados de un modelo preentrenado en un conjunto de datos amplio y general, y luego se entrena posteriormente con datos específicos de la tarea limitados. 
 Los pesos se refieren a los parámetros aprendidos de un modelo que ha sido entrenado en un gran conjunto de datos para una tarea específica, que representan el conocimiento que el modelo ha adquirido durante su proceso de entrenamiento, encapsulando características y patrones relevantes para la tarea para la que fue entrenado originalmente.
@@ -288,6 +318,8 @@ Basándonos en el artículo, se identifican varias posibles líneas futuras:
 Exploración de la combinación de LLMs con otras técnicas de procesamiento del lenguaje natural, como el Modelado de Temas y el clustering. Aunque el artículo los presenta como métodos existentes, futuras investigaciones podrían investigar cómo estas técnicas pueden complementar o mejorar el rendimiento de los LLMs en tareas como la identificación de temas relevantes en las consultas o la agrupación de preguntas similares para mejorar las bases de conocimiento.
 En cuanto a cambios de paradigma, la implementación exitosa del fine-tuning de LLMs para la optimización de la respuesta a consultas en la educación podría marcar un avance hacia sistemas de soporte administrativo y académico más inteligentes y automatizados. Esto podría permitir al personal dedicar menos tiempo a tareas repetitivas y enfocarse en actividades de mayor valor estratégico, mejorando la eficiencia general y la experiencia de la comunidad educativa. 
 La creciente accesibilidad a modelos de lenguaje potentes a través de frameworks y posibles futuras librerías también podría transformar la manera en que se lleva a cabo la investigación en diversas disciplinas, facilitando el análisis de grandes volúmenes de información textual y la generación de nuevas perspectivas.
+\section{Anexo1}
+\url{https://docs.google.com/spreadsheets/d/1emRu_aueyG-dGR6l53XAVyOmbuM3V0nXmKmWk_Z2zfs/edit?gid=0#gid=0}
 %\nocite{*}
 %\bibliographystyle{apacite}
 \printbibliography

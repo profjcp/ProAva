@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber ArtProAv"] 1741449438.44776 "ArtProAv.bcf" "ArtProAv.bbl" "ArtProAv" 1741452259.00006 0
-  "ArtProAv.bcf" 1741452258.84498 133671 a40fe545afcbf957c651f5b2fa42b0f0 "pdflatex"
-  "referencias.bib" 1741449403.71683 4029 3ce2baadd1d52071fb2edfc78445dc95 ""
+["biber ArtProAv"] 1741738809.6338 "ArtProAv.bcf" "ArtProAv.bbl" "ArtProAv" 1741739943.42924 0
+  "ArtProAv.bcf" 1741739943.22933 133743 2a0cdbe510067c2e9b8bb6b2c5896169 "pdflatex"
+  "referencias.bib" 1741704727.92721 4395 35b942b01bd88920a83c8e300abcc9f7 ""
   (generated)
   "ArtProAv.bbl"
   "ArtProAv.blg"
   (rewritten before read)
-["pdflatex"] 1741452256.41741 "/Users/oceanjungle/Library/CloudStorage/GoogleDrive-juanpeinado@uagrm.edu.bo/My Drive/Tesis Doctoral/Articulos/ProAva/ArtProAv.tex" "ArtProAv.pdf" "ArtProAv" 1741452259.0005 0
-  "/Users/oceanjungle/Library/CloudStorage/GoogleDrive-juanpeinado@uagrm.edu.bo/My Drive/Tesis Doctoral/Articulos/ProAva/ArtProAv.tex" 1741452253.38092 31809 6009f2b60f775964db7bddd3975f104f ""
+["pdflatex"] 1741739941.18101 "/Users/oceanjungle/Library/CloudStorage/GoogleDrive-juanpeinado@uagrm.edu.bo/My Drive/Tesis Doctoral/Articulos/ProAva/ArtProAv.tex" "ArtProAv.pdf" "ArtProAv" 1741739943.4297 0
+  "/Users/oceanjungle/Library/CloudStorage/GoogleDrive-juanpeinado@uagrm.edu.bo/My Drive/Tesis Doctoral/Articulos/ProAva/ArtProAv.tex" 1741739940.83978 33323 4d165f3803ce71dccc7f08642bd42079 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -19,6 +19,8 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm" 1136768653 2288 f478fc8fed18759effb59f3dad7f3084 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm" 1136768653 4640 532ca3305aad10cc01d769f3f91f1029 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm" 1136768653 6944 94c55ad86e6ea2826f78ba2240d50df9 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmro8r.tfm" 1136768653 4548 f370a182a02c40d95c5554802dc0f174 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmro8t.tfm" 1136768653 6792 47ec25d9cde9feef87a90c47a9fbc4d5 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/zptmcm7m.tfm" 1136768653 2232 db256afffc8202da192b4641df14d602 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/zptmcm7t.tfm" 1136768653 2172 1d00c2a0d10f23031be62329457a870c ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/zptmcm7v.tfm" 1136768653 1032 20febbd0f0c9a48eb78616f897008286 ""
@@ -34,6 +36,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf" 1136768653 3556 8a9a6dcbcd146ef985683f677f4758a6 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf" 1136768653 2348 91706c542228501c410c266421fbe30c ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf" 1136768653 2328 6cd7df782b09b29cfc4d93e55b6b9a59 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmro8t.vf" 1136768653 2356 c62a9e3d92ec3ebab0f81e654c0829a1 ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/babel-english/english.ldf" 1496785618 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
@@ -129,6 +132,7 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.sty" 1708549794 81322 d02238bdeb305f2c9f9d0229f99371d0 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty" 1708549794 77022 5c8c440739265e7ba15b8379ece6ecd7 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstpatch.sty" 1708549794 329 f19f5da7234b51d16764e23d20999c73 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/lm/lmodern.sty" 1616454256 1608 b00724785a9e9c599e5181bb8729160b ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.def" 1284153563 1620 fb1c32b818f2058eca187e5c41dfae77 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.sty" 1284153563 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/mathptmx.sty" 1586716065 4631 6e41de2b7a83dfa5d2c4b0a2fe01f046 ""
@@ -142,6 +146,7 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/ragged2e/ragged2e.sty" 1687466457 10085 3dececaeed388e31285c366e124c0c4e ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657483315 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty" 1670275497 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty" 1698436711 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty" 1698869629 12667 e4b5eb11e4b7239e6c8a52bbe074a6c6 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
@@ -150,12 +155,12 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1719980056.44756 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1719979921 8221452 41cef899e7a86cbe701ed54d5b7080a0 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "ArtProAv.aux" 1741452258.83543 4180 58d999f3fd19181abba8ef91002cf01f "pdflatex"
-  "ArtProAv.bbl" 1741449443.07671 37026 267de707e4e185ec1e74b642f136e966 "biber ArtProAv"
-  "ArtProAv.out" 1741452258.84281 1419 f14a70336c706fb35acc753b8f61e9dc "pdflatex"
-  "ArtProAv.run.xml" 1741452258.84603 2628 ee779c83f6148191fe4f7d3636124c8b "pdflatex"
-  "ArtProAv.tex" 1741452253.38092 31809 6009f2b60f775964db7bddd3975f104f ""
-  "image/logo.png" 1740152927.13417 79555 de2b8311e13ce7d5a1e07de756db5d6a ""
+  "ArtProAv.aux" 1741739943.22027 4427 cccaf8c82bdd6b256bac599d66c6016e "pdflatex"
+  "ArtProAv.bbl" 1741738837.805 37026 267de707e4e185ec1e74b642f136e966 "biber ArtProAv"
+  "ArtProAv.out" 1741739943.2274 1493 a142a267290e50d94dbf30274a0e47f0 "pdflatex"
+  "ArtProAv.run.xml" 1741739943.23049 2628 ee779c83f6148191fe4f7d3636124c8b "pdflatex"
+  "ArtProAv.tex" 1741739940.83978 33323 4d165f3803ce71dccc7f08642bd42079 ""
+  "image/logo3.jpeg" 1739240461.54489 83171 7411b2fbbbd4e2fc235c1f44e81a33dc ""
   (generated)
   "ArtProAv.aux"
   "ArtProAv.bcf"

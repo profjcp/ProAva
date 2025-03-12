@@ -3070,6 +3070,7 @@
     <bcf:citekey order="9" intorder="1">touvron2023llama</bcf:citekey>
     <bcf:citekey order="10" intorder="1">touvron2023llama</bcf:citekey>
     <bcf:citekey order="11" intorder="1">lopez2024generacion</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">touvron2023llama</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
