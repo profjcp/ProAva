@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber ArtProAv"] 1741738809.6338 "ArtProAv.bcf" "ArtProAv.bbl" "ArtProAv" 1741739943.42924 0
-  "ArtProAv.bcf" 1741739943.22933 133743 2a0cdbe510067c2e9b8bb6b2c5896169 "pdflatex"
-  "referencias.bib" 1741704727.92721 4395 35b942b01bd88920a83c8e300abcc9f7 ""
+["biber ArtProAv"] 1741875459.44211 "ArtProAv.bcf" "ArtProAv.bbl" "ArtProAv" 1741985487.19595 0
+  "ArtProAv.bcf" 1741985486.94346 133743 2a0cdbe510067c2e9b8bb6b2c5896169 "pdflatex"
+  "referencias.bib" 1741875719.03358 4448 3ab3eba96f2dc6f23cdfde201ab47591 ""
   (generated)
   "ArtProAv.bbl"
   "ArtProAv.blg"
   (rewritten before read)
-["pdflatex"] 1741739941.18101 "/Users/oceanjungle/Library/CloudStorage/GoogleDrive-juanpeinado@uagrm.edu.bo/My Drive/Tesis Doctoral/Articulos/ProAva/ArtProAv.tex" "ArtProAv.pdf" "ArtProAv" 1741739943.4297 0
-  "/Users/oceanjungle/Library/CloudStorage/GoogleDrive-juanpeinado@uagrm.edu.bo/My Drive/Tesis Doctoral/Articulos/ProAva/ArtProAv.tex" 1741739940.83978 33323 4d165f3803ce71dccc7f08642bd42079 ""
+["pdflatex"] 1741985483.95037 "/Users/oceanjungle/Library/CloudStorage/GoogleDrive-juanpeinado@uagrm.edu.bo/My Drive/Tesis Doctoral/Articulos/ProAva/ArtProAv.tex" "ArtProAv.pdf" "ArtProAv" 1741985487.19685 0
+  "/Users/oceanjungle/Library/CloudStorage/GoogleDrive-juanpeinado@uagrm.edu.bo/My Drive/Tesis Doctoral/Articulos/ProAva/ArtProAv.tex" 1741985483.30028 33536 f7cb8bb4acf2b228ec019b9e68e8effb ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -155,11 +155,11 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1719980056.44756 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1719979921 8221452 41cef899e7a86cbe701ed54d5b7080a0 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "ArtProAv.aux" 1741739943.22027 4427 cccaf8c82bdd6b256bac599d66c6016e "pdflatex"
-  "ArtProAv.bbl" 1741738837.805 37026 267de707e4e185ec1e74b642f136e966 "biber ArtProAv"
-  "ArtProAv.out" 1741739943.2274 1493 a142a267290e50d94dbf30274a0e47f0 "pdflatex"
-  "ArtProAv.run.xml" 1741739943.23049 2628 ee779c83f6148191fe4f7d3636124c8b "pdflatex"
-  "ArtProAv.tex" 1741739940.83978 33323 4d165f3803ce71dccc7f08642bd42079 ""
+  "ArtProAv.aux" 1741985486.92721 4530 576ab5d7c136b3a004543609ec66013f "pdflatex"
+  "ArtProAv.bbl" 1741875465.40698 37026 267de707e4e185ec1e74b642f136e966 "biber ArtProAv"
+  "ArtProAv.out" 1741985486.94049 1567 7340e5c401eb9d0cbce91bbabfa1f17d "pdflatex"
+  "ArtProAv.run.xml" 1741985486.94533 2628 ee779c83f6148191fe4f7d3636124c8b "pdflatex"
+  "ArtProAv.tex" 1741985483.30028 33536 f7cb8bb4acf2b228ec019b9e68e8effb ""
   "image/logo3.jpeg" 1739240461.54489 83171 7411b2fbbbd4e2fc235c1f44e81a33dc ""
   (generated)
   "ArtProAv.aux"

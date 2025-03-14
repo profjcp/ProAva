@@ -1,0 +1,22 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'ArtProAv.blg'
+[120] biber-darwin:340> INFO - === Thu Mar 13, 2025, 10:17:44
+[145] Biber.pm:419> INFO - Reading 'ArtProAv.bcf'
+[339] Biber.pm:979> INFO - Found 9 citekeys in bib section 0
+[366] Biber.pm:4419> INFO - Processing section 0
+[380] Biber.pm:4610> INFO - Looking for bibtex file 'referencias.bib' for section 0
+[381] bibtex.pm:1713> INFO - LaTeX decoding ...
+[406] bibtex.pm:1519> INFO - Found BibTeX data source 'referencias.bib'
+[576] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[576] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[576] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'pt-PT'
+[576] Biber.pm:4245> INFO - No sort tailoring available for locale 'pt-PT'
+[623] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[623] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[623] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'pt-PT'
+[623] Biber.pm:4245> INFO - No sort tailoring available for locale 'pt-PT'
+[643] bbl.pm:660> INFO - Writing 'ArtProAv.bbl' with encoding 'UTF-8'
+[673] bbl.pm:763> INFO - Output to ArtProAv.bbl
+[674] Biber.pm:131> WARN - Duplicate entry key: 'lopez2024generacion' in file 'referencias.bib', skipping ...
+[674] Biber.pm:131> WARN - Duplicate entry key: 'touvron2023llama' in file 'referencias.bib', skipping ...
+[674] Biber.pm:133> INFO - WARNINGS: 2

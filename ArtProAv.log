@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.3)  11 MAR 2025 20:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.3)  14 MAR 2025 16:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -904,7 +904,7 @@ Package hyperref Info: Link coloring ON on input line 118.
 \openout4 = `ArtProAv.out'.
 
 \c@lstlisting=\count451
-<image/logo3.jpeg, id=48, 1003.75pt x 480.79625pt>
+<image/logo3.jpeg, id=52, 1003.75pt x 480.79625pt>
 File: image/logo3.jpeg Graphic file (type jpg)
 <use image/logo3.jpeg>
 Package pdftex.def Info: image/logo3.jpeg  used on input line 129.
@@ -939,9 +939,9 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./image/logo3.jpeg>]
-LaTeX Info: Redefining \sptext on input line 146.
-LaTeX Info: Redefining \. on input line 146.
-LaTeX Info: Redefining \% on input line 146.
+LaTeX Info: Redefining \sptext on input line 148.
+LaTeX Info: Redefining \. on input line 148.
+LaTeX Info: Redefining \% on input line 148.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -952,115 +952,125 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.180 
+l.182 
        [1
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \sptext on input line 184.
-LaTeX Info: Redefining \. on input line 184.
-LaTeX Info: Redefining \% on input line 184.
+LaTeX Info: Redefining \sptext on input line 186.
+LaTeX Info: Redefining \. on input line 186.
+LaTeX Info: Redefining \% on input line 186.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \sptext on input line 194.
-LaTeX Info: Redefining \. on input line 194.
-LaTeX Info: Redefining \% on input line 194.
+LaTeX Info: Redefining \sptext on input line 196.
+LaTeX Info: Redefining \. on input line 196.
+LaTeX Info: Redefining \% on input line 196.
  [2]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \sptext on input line 220.
-LaTeX Info: Redefining \. on input line 220.
-LaTeX Info: Redefining \% on input line 220.
+LaTeX Info: Redefining \sptext on input line 222.
+LaTeX Info: Redefining \. on input line 222.
+LaTeX Info: Redefining \% on input line 222.
  [3]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \sptext on input line 235.
-LaTeX Info: Redefining \. on input line 235.
-LaTeX Info: Redefining \% on input line 235.
-LaTeX Info: Redefining \sptext on input line 235.
-LaTeX Info: Redefining \. on input line 235.
-LaTeX Info: Redefining \% on input line 235.
+LaTeX Info: Redefining \sptext on input line 237.
+LaTeX Info: Redefining \. on input line 237.
+LaTeX Info: Redefining \% on input line 237.
+LaTeX Info: Redefining \sptext on input line 237.
+LaTeX Info: Redefining \. on input line 237.
+LaTeX Info: Redefining \% on input line 237.
  [4]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 247.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 249.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Underfull \hbox (badness 3068) in paragraph at lines 256--259
+Underfull \hbox (badness 3068) in paragraph at lines 258--261
 []\T1/ptm/m/n/12 Personalización y Adap-ta-ción de
  []
 
-LaTeX Info: Redefining \sptext on input line 264.
-LaTeX Info: Redefining \. on input line 264.
-LaTeX Info: Redefining \% on input line 264.
+LaTeX Info: Redefining \sptext on input line 266.
+LaTeX Info: Redefining \. on input line 266.
+LaTeX Info: Redefining \% on input line 266.
 [5]
-Underfull \hbox (badness 1028) in paragraph at lines 266--268
+Underfull \hbox (badness 1028) in paragraph at lines 268--270
 []\T1/ptm/m/n/12 Implementación e In-te-gra-ción: La
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 274--276
+Underfull \hbox (badness 3291) in paragraph at lines 276--278
 \T1/ptm/m/n/12 me-works: La im-ple-men-ta-ción de
  []
 
-LaTeX Info: Redefining \sptext on input line 288.
-LaTeX Info: Redefining \. on input line 288.
-LaTeX Info: Redefining \% on input line 288.
+LaTeX Info: Redefining \sptext on input line 290.
+LaTeX Info: Redefining \. on input line 290.
+LaTeX Info: Redefining \% on input line 290.
 [6]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \sptext on input line 302.
-LaTeX Info: Redefining \. on input line 302.
-LaTeX Info: Redefining \% on input line 302.
+LaTeX Info: Redefining \sptext on input line 304.
+LaTeX Info: Redefining \. on input line 304.
+LaTeX Info: Redefining \% on input line 304.
  [7]
-LaTeX Info: Redefining \sptext on input line 321.
-LaTeX Info: Redefining \. on input line 321.
-LaTeX Info: Redefining \% on input line 321.
+LaTeX Info: Redefining \sptext on input line 323.
+LaTeX Info: Redefining \. on input line 323.
+LaTeX Info: Redefining \% on input line 323.
  [8]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 322.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 324.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 322.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 324.
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--327
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
 [][]$\T1/ptm/m/n/12 https : / / docs . google . com /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--327
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
 \T1/ptm/m/n/12 spreadsheets / d / 1emRu _
  []
 
 
-Overfull \hbox (12.5284pt too wide) in paragraph at lines 322--327
+Overfull \hbox (12.5284pt too wide) in paragraph at lines 324--325
 \T1/ptm/m/n/12 aueyG-[]dGR6l53XAVyOmbuM3V0nXmKmWk _
  []
 
 
-Underfull \hbox (badness 3312) in paragraph at lines 327--327
+Underfull \hbox (badness 10000) in paragraph at lines 326--331
+[][]$\T1/ptm/m/n/12 https : / / docs . google . com / document /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--331
+\T1/ptm/m/n/12 d / 1i20FMaIOVmB0tIxdOB96s-[] _
+ []
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 331--331
 \T1/ptm/m/it/12 ma-chi-ne Lear-ning re-search\T1/ptm/m/n/12 , \T1/ptm/m/it/12 3\T1/ptm/m/n/12 (Jan),
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 327--327
+Underfull \hbox (badness 1087) in paragraph at lines 331--331
 \T1/ptm/m/n/12 lan-gua-ge un-ders-tan-ding. \T1/ptm/m/it/12 Pro-cee-dings
  []
 
 
-Underfull \hbox (badness 2088) in paragraph at lines 327--327
+Underfull \hbox (badness 2088) in paragraph at lines 331--331
 [][]\T1/ptm/m/n/12 Grootendorst, M. (2022). BER-To-pic: Neu-
  []
 
-LaTeX Info: Redefining \sptext on input line 327.
-LaTeX Info: Redefining \. on input line 327.
-LaTeX Info: Redefining \% on input line 327.
+LaTeX Info: Redefining \sptext on input line 331.
+LaTeX Info: Redefining \. on input line 331.
+LaTeX Info: Redefining \% on input line 331.
 [9] (./ArtProAv.aux
 LaTeX Info: Redefining \sptext on input line 13.
 LaTeX Info: Redefining \. on input line 13.
@@ -1074,24 +1084,24 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `ArtProAv.out' has not changed.
-(rerunfilecheck)             Checksum: A142A267290E50D94DBF30274A0E47F0;1493.
+(rerunfilecheck)             Checksum: 7340E5C401EB9D0CBCE91BBABFA1F17D;1567.
 Package logreq Info: Writing requests to 'ArtProAv.run.xml'.
 \openout1 = `ArtProAv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23476 strings out of 474116
- 402172 string characters out of 5743683
+ 23478 strings out of 474116
+ 402192 string characters out of 5743683
  1944187 words of memory out of 5000000
- 45461 multiletter control sequences out of 15000+600000
+ 45462 multiletter control sequences out of 15000+600000
  600953 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,11n,81p,801b,4988s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ArtProAv.pdf (10 pages, 181821 bytes).
+Output written on ArtProAv.pdf (10 pages, 182955 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 144 compressed objects within 2 object streams
- 44 named destinations out of 1000 (max. 500000)
- 94 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 174 PDF objects out of 1000 (max. 8388607)
+ 151 compressed objects within 2 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 102 words of extra memory for PDF output out of 10000 (max. 10000000)
 
